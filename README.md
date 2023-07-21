@@ -8,8 +8,7 @@
 
 Right now, my research mainly focuses on the development of distributed computing research infrastructures and enabling federated analysis and learning at scale in areas such as personalized medicine.
 
-Here are some of the technologies I'm familiar with:
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=mchdiez&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchdiez&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)
 
 Want to get in touch? Find me at:
