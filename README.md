@@ -1,7 +1,7 @@
 ### Hello, I'm María Chavero-Díez! 👋
 
-- 👩🏻‍💻 Bioinformatics Research Engineer and Biomedical Sciences PhD researcher 
-- 🏢 Currently at the Barcelona Supercomputing Center ([Spanish National Bioinformatics Institute](https://www.bsc.es/discover-bsc/organisation/scientific-structure/national-institute-bioinformatics-elixir-node-0)) and University of Barcelona.
+- 👩🏻‍💻 Bioinformatics Research Engineer and Biomedical Sciences PhD fellow
+- 🏢 Currently at the Barcelona Supercomputing Center ([Spanish National Bioinformatics Institute](https://www.bsc.es/discover-bsc/organisation/scientific-structure/national-institute-bioinformatics-elixir-node-0)) and University of Barcelona
 - 🏠 Living in Barcelona, Spain
 - 😄 Pronouns: she/her
 - 📑 Provisional [personal website](https://mchdiez.owlstown.net)
